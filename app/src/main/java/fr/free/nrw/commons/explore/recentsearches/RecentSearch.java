@@ -1,7 +1,6 @@
 package fr.free.nrw.commons.explore.recentsearches;
 
 import android.net.Uri;
-
 import java.util.Date;
 
 /**

@@ -2,6 +2,7 @@ package fr.free.nrw.commons.utils;
 
 import android.content.Context;
 import android.net.Uri;
+import android.util.Log;
 
 import java.io.File;
 import java.util.Random;

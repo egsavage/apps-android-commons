@@ -1,6 +1,7 @@
 package fr.free.nrw.commons.upload;
 
 import android.text.TextUtils;
+import android.util.TimeUtils;
 
 class Description {
 
